@@ -2,3 +2,4 @@
 
 1. [Quote-generator](https://akirap3.github.io/javascript20-projects/quote-generator)
 2. [Infinite-scroll](https://akirap3.github.io/javascript20-projects/infinite-scroll)
+3. [picture-in-picture](https://akirap3.github.io/javascript20-projects/picture-in-picture)
