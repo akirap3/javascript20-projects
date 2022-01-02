@@ -6,3 +6,4 @@
 4. [joke-teller](https://akirap3.github.io/javascript20-projects/joke-teller)
 5. [light-dark-mode](https://akirap3.github.io/javascript20-projects/light-dark-mode)
 6. [animated-template](https://akirap3.github.io/javascript20-projects/animated-template)
+7. [navigation-nation](https://akirap3.github.io/javascript20-projects/navigation-nation)
